@@ -18,7 +18,7 @@
 安装依赖：
 
 ```powershell
-cd D:\\DeepseekHarness\\photo-watermarker
+cd D:\\yourfiles
 python -m pip install -r requirements.txt
 ```
 
